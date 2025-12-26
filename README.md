@@ -26,7 +26,7 @@ A full-stack functional prototype of a student assessment dashboard. This projec
      npm install
      npm start
      ```
-   - The application will automatically open in your browser at `http://localhost:3000`.
+   - The application will automatically open in your browser at `http://localhost:5173`.
 
 ---
 
