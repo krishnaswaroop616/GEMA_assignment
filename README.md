@@ -71,8 +71,6 @@ The report features an automated **Descriptive Feedback Engine** that translates
 ---
 
 ### **Evaluation Criteria Coverage**
-- [x] **UI Clarity:** Modern, spacious dashboard design.
-- [x] **Charts:** Large graphical progress bars with score-based color coding.
-- [x] **Documentation:** Detailed instructions for local setup and logic explanation.
-
-**Author:** [Your Name]
+- **UI Clarity:** Modern, spacious dashboard design.
+- **Charts:** Large graphical progress bars with score-based color coding.
+- **Documentation:** Detailed instructions for local setup and logic explanation.
